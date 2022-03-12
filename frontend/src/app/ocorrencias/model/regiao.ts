@@ -1,5 +1,5 @@
 export interface Regiao {
     id: number,
     regiao: string,
-    total: number
+    total_exames: number
 }
